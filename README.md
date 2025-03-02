@@ -28,8 +28,8 @@ Code Execution API: Judge0
 1️⃣ Clone the Repository
 bash
 CopyEdit
-git clone https://github.com/your-repo-name.git
-cd contest-platform
+git clone
+(https://github.com/sagarkumar66-ctrl/ContestHub)
 
 2️⃣ Install Dependencies
 bash
